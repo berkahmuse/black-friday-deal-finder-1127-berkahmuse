@@ -1,0 +1,34 @@
+[
+  {
+    "file": "1-deals.png",
+    "path": "#/",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    }
+  },
+  {
+    "file": "2-deal.png",
+    "path": "#/deal/airpods-pro-3",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    }
+  },
+  {
+    "file": "3-deals-phone.png",
+    "path": "#/",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    }
+  },
+  {
+    "file": "4-filtered.png",
+    "path": "?category=Home&minoff=50#/",
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    }
+  }
+]
